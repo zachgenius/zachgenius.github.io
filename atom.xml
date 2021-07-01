@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Zach&#39;s</title>
+  <icon>https://www.tama.me/icon.png</icon>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://www.tama.me/"/>
+  <updated>2021-07-01T03:28:26.678Z</updated>
+  <id>https://www.tama.me/</id>
+  
+  <author>
+    <name>Zach Wang</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Who Am I</title>
+    <link href="https://www.tama.me/2020/09/22/Who-Am-I/"/>
+    <id>https://www.tama.me/2020/09/22/Who-Am-I/</id>
+    <published>2020-09-22T02:30:00.000Z</published>
+    <updated>2021-07-01T03:28:26.678Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;Who-Am-I&quot;&gt;&lt;a href=&quot;#Who-Am-I&quot; class=&quot;headerlink&quot; title=&quot;Who Am I&quot;&gt;&lt;/a&gt;Who Am I&lt;/h1&gt;&lt;p&gt;Master of Philosophy in University of
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>a new post</title>
+    <link href="https://www.tama.me/2020/05/24/a-new-post/"/>
+    <id>https://www.tama.me/2020/05/24/a-new-post/</id>
+    <published>2020-05-24T07:02:25.000Z</published>
+    <updated>2021-07-01T03:27:29.461Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;aaaaaaa&lt;/p&gt;
+
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
